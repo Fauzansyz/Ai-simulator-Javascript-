@@ -1,0 +1,16 @@
+{
+  "name": "RealAI",
+  "short_name": "RL",
+  "description":"AI berbahasa Indonésia",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/20240428_071203.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
